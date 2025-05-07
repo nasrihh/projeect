@@ -1,0 +1,191 @@
+.canteen1{
+   width: 1256px;
+   margin: 0;
+   height: 900px;
+   margin-top: 0cm;
+   }
+    .image1{
+       width: 1260;
+       height: 970px;
+       margin-top: 0px;
+    }
+    .next1{
+       color: aliceblue;
+       list-style-type: none;
+       display: inline-block;
+       position: absolute;
+       margin-top: -900px;
+    }
+    .next2{
+      text-align: center;
+       display: inline-block;
+       font-size: 26px;
+       padding-left: 25px;
+       margin-top: 40px;
+    }
+    .next3{
+      display: inline-block;
+      font-size: 26px;
+      padding-left: 25px;
+      margin-top: 40px;
+      background-color: rgb(33, 165, 231);
+      color: white;
+      padding: 3px;
+      border-radius: 1px;
+      
+   }
+   
+    .image2{
+       position: absolute;
+       margin-top: -860px;
+       margin-left: 1350px;
+    }
+    li{
+      padding: 0px;
+   }
+   li:hover{
+      font-size: 30px;
+      color: rgb(212, 122, 122);
+   }
+   .canteen4 {
+      color: rgb(226, 220, 220);
+      position: absolute;
+      text-align: center;
+      margin-top: -350px;
+      margin-left: 500px;
+   }
+   .image3{
+   display: inline-block;
+   }
+   .canteen5 {
+      display: inline-block;
+      position: relative;
+      margin-left: 130px;
+      margin-top: -170px;
+   
+   }
+   .canteen6{
+      display: inline-block;
+   
+   }
+   
+   .canteen8{
+      
+      height: -400px;
+      width: 350px;
+      font-size: 25px;
+      direction: rtl;
+      position: absolute;
+      margin-top: -400px;
+   
+   
+   }
+   .canteen9{
+      height: 400px;
+      width: 330px;
+      font-size: 25px;
+      direction: rtl;
+      position: absolute;
+      margin-top: -400px;
+      margin-left: 450px;
+    
+   }
+   .canteen10{
+      height: 400px;
+      width: 330px;
+      direction: rtl;
+      position: absolute;
+      margin-top: -400px;
+      margin-left: 840px;
+   }
+   .canteen15{
+      direction: rtl;
+      position: absolute;
+      margin-top: 100px;
+      margin-left: 620px;
+      text-align: center;
+   }
+   .canteen11{
+      display: inline-block;
+      width: 1200px;
+      height: 280px;
+      margin: 3px;
+      text-align: center;
+      position: relative;
+      margin-top: 330px;
+      margin-left: 150px;
+   
+   }
+   .parghraf{
+      color: rgb(186, 190, 194);
+   }
+   .canteen12{
+      display: inline-block;
+      width: 215px;
+      height: 178px;
+      border: solid 1px rgb(157, 154, 154);
+      margin: 5px;
+      padding: 30px;
+      font-size: 22px;
+   
+   }
+   .canteen13{
+      width: 1450px;
+      height: 600px;
+      background-color: rgb(224, 220, 220);
+      position: absolute;
+      margin-left: -140px;
+   }
+   .canteen18{
+      height: 420px;
+      width: 300px;
+      display: inline-block;
+      border: solid 1px rgb(178, 182, 184);
+      background-color: white;
+   
+   }
+   .image4{
+      width: 300px;
+   }
+   .type1{
+      display: inline-block;
+   background-color: rgb(252, 252, 252);
+   color: rgb(49, 169, 234);
+   border: solid 2px rgb(49, 169, 234);
+   font-size: 15px;
+   height: 30px;
+   width: 70px;
+   
+   }
+   button:hover{
+      background-color: rgb(54, 188, 246);
+      color: rgb(248, 242, 242);
+      font-size: 20px;
+   }
+   .image5{
+      border-radius: 50%;
+      margin-top: -60px;
+     
+   }
+   .canteen16{
+      height: 420px;
+      width: 300px;
+      display: inline-block;
+      border: solid 1px rgb(178, 182, 184);
+      background-color: white;
+      margin-left: 10px;
+   }
+   .canteen17{
+      height: 420px;
+      width: 300px;
+      display: inline-block;
+      border: solid 1px rgb(178, 182, 184);
+      background-color: white;
+      margin-left: 10px;
+   }
+   .canteen14{
+      display: inline-block;
+   
+   }
+   
+   
